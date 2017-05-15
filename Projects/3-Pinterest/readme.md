@@ -23,8 +23,22 @@ J'aimerais que mon site ressemble à quelque chose comme ceci : ![Image exemple 
 ## Objectifs supplémentaires
 1. Permettre à l'utilisateur de modifier le cadrage de l'image (via la librairie php [simpleImage](https://github.com/claviska/SimpleImage))
 
-## Briefing
-### Étape 1 : Planifier le travail à effectuer
-- Etude de la demande
-- Unified Modeling Language (UML) ([example 1](http://astah.net/features/uml-features/uml-features-class.png), [example 2](http://msoe.us/taylor/tutorial/se1021/exceptionUML.png))
-- Crée un repository sur GitHub
+## Pour commencer...
+- Etude de la demande: as-tu tout compris? Pour le savoir, reformule la demande avec un(e) collègue et comparez votre compréhension mutuelle.
+- Clarifie pour toi-même ce que devra faire ton script php, via de l'Unified Modelling Language (UML) ([example 1](http://astah.net/features/uml-features/uml-features-class.png), [example 2](http://msoe.us/taylor/tutorial/se1021/exceptionUML.png))
+- Réalise un prototype papier de l'écran à construire.
+- Crée un repository sur GitHub "`projet-3-Pinterest`"
+
+#### Qu'est-ce que je sais déjà faire?
+1. Créer un formulaire html
+1. Ecrire du html
+1. Utiliser un framework CSS
+1. traiter d'un formulaire en php  
+
+#### Qu'est-ce qui est nouveau ?
+1. PHP: expérimenter avec l'upload
+1. PHP: expérimenter avec scandir()
+1. Associer une librairie javascript à du html
+
+
+Bon amusement!
